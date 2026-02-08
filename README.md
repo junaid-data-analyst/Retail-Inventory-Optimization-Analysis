@@ -1,5 +1,5 @@
 # Retail Inventory Optimization Analysis
-## Project Overview
+## 📊Project Overview
 This project applies statistical methods to a retail dataset of 123 products to minimize stockouts, and identify inefficient inventory.
 ## Mathematical Logic Applied
 **Safety Stock Calculation**: Safety Stock = Z * sigma * sqrt{LT}$ (where Z = 1.645 for **95%** service level).
