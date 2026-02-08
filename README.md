@@ -4,7 +4,7 @@ This project applies statistical methods to a retail dataset of 123 products to 
 ## Mathematical Logic Applied
 **Safety Stock Calculation**: Safety Stock = Z * sigma * sqrt{LT}$ (where Z = 1.645 for **95%** service level).
 **Dead Stock Identification**: Products with an average weekly sales volume below 13,70,000 units.
-## Tools Used
+## 🛠️ Tools Used
 **Excel**: Data Cleaning.
 **SQL**: Data cleaning and aggregation.
 **Power BI**: Interactive dashboard for supply chain monitoring.
