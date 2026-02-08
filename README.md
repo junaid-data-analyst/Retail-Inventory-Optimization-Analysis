@@ -8,3 +8,7 @@ This project applies statistical methods to a retail dataset of 123 products to 
 **Excel**: Data Cleaning.
 **SQL**: Data cleaning and aggregation.
 **Power BI**: Interactive dashboard for supply chain monitoring.
+## 📁 Repository Structure
+* `/data`: The raw and processed Excel datasets.
+* `/sql`: Scripts for database creation and business logic.
+* `/dashboard`: The Power BI (.pbix) file and screenshots.
