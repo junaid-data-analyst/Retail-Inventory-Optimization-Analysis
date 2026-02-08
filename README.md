@@ -13,4 +13,4 @@ This project applies statistical methods to a retail dataset of 123 products to 
 * `/sql`: Scripts for database creation and business logic.
 * `/dashboard`: The Power BI (.pbix) file and screenshots.
 ## 📊Dashboard Preview
-![Supply Chain Dashboard](supp
+![Inventory Optimization Dashboard](Retailsupplychainvisual.png)
